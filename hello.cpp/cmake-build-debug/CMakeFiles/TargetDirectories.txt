@@ -1,0 +1,3 @@
+C:/Users/Alpha Omar Leigh/Documents/cloudComputing/hello.cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Alpha Omar Leigh/Documents/cloudComputing/hello.cpp/cmake-build-debug/CMakeFiles/hello_cpp.dir
+C:/Users/Alpha Omar Leigh/Documents/cloudComputing/hello.cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
